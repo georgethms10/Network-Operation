@@ -34,4 +34,4 @@ Here is a sample image
 
 
 NOTE: 
-These are all assumptions accrding to my calculation if anyone feels that the method used in here are not the best please feel free to update the code.
+These are all assumptions according to my calculation if anyone feels that the method used in here are not the best, please feel free to update the code.
