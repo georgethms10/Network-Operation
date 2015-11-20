@@ -18,5 +18,16 @@ If we assume it as the correct method the response time varies at times sometime
 Retrofit has an upperhand in the sence it does not need a seprate ssl certificate for a https call.
 
 
+The library versions i have compared
+
+AsycHTTP-   compile 'com.loopj.android:android-async-http:1.4.9'
+
+Retrofit-    compile 'com.squareup.retrofit:retrofit:1.9.0'
+
+For json serialization i have used 
+
+GSON-  compile 'com.google.code.gson:gson:2.2.4'
+
+
 NOTE: 
 These are all assumptions accrding to my calculation if anyone feels that the method used in here are not the best please feel free to update the code.
