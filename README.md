@@ -28,6 +28,10 @@ For json serialization i have used
 
 GSON-  compile 'com.google.code.gson:gson:2.2.4'
 
+Here is a sample image
+
+![compare](https://cloud.githubusercontent.com/assets/6296111/11296671/9222c138-8f99-11e5-9252-2f5d28971e5a.png)
+
 
 NOTE: 
 These are all assumptions accrding to my calculation if anyone feels that the method used in here are not the best please feel free to update the code.
