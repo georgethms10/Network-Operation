@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity implements Response {
     long start;
     long end;
 
-    public static String API = "http://sicsglobal.com/projects/App_projects/VergeFM";
+    public static String API = "your link head here";
     @Bind(R.id.response_time)
     TextView responseTime;
 
@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity implements Response {
     public void asycServerCall() {
 
         start = System.currentTimeMillis();
-        AsycHttpCall.getInstance().CallApi(API + "/stations.php?userId=71", ASYNC_CODE, this);
+        AsycHttpCall.getInstance().CallApi(API + "/paste the files to parse", ASYNC_CODE, this);
     }
 
     /**

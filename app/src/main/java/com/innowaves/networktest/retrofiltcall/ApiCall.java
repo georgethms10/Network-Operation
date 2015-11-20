@@ -11,6 +11,6 @@ import retrofit.http.Query;
  */
 public interface ApiCall {
 
-    @GET("/stations.php")
-    public void getDetails(@Query("userId") String userid, Callback<StationListBackend> response);
+    @GET("/file path in server")
+    public void getDetails(@Query("param") String param, Callback<StationListBackend> response);
 }
